@@ -106,5 +106,5 @@
 
 ---
 
-若在之前的所有分歧选项中选择倾向亚季的选项，进入[路线4](../route4_aki/chapter7.md)，
+若已完成路线3并在之前的所有分歧选项中选择倾向亚季的选项，进入[路线4](../route4_aki/chapter7.md)，
 否则进入[路线3](../route3_chinatsu/chapter7.md)。
